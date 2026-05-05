@@ -53,7 +53,7 @@ export default function App() {
       <div className="w-full max-w-4xl flex flex-col gap-4">
         
         {/* Main Interaction Card */}
-        <div className="bg-white rounded-[40px] shadow-2xl border border-slate-200 overflow-hidden flex flex-col relative">
+        <div className="bg-white rounded-xl shadow-2xl border border-slate-200 overflow-hidden flex flex-col relative">
           
           {/* Header Compacto */}
           <div className="px-8 py-5 border-b border-slate-50 flex justify-between items-center bg-white/50 backdrop-blur-sm sticky top-0 z-30">
